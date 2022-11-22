@@ -1,0 +1,211 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Laurent Le Ponner",
+    "label": "Développeur web & web mobile en formation. Recherche d'une alternance d'un an immédiatement",
+    "image": "",
+    "email": "laurentleponner@gmail.com",
+    "phone": "0685130084",
+    "url": "",
+    "summary": "Après un parcours diversifié et très enrichissant qui m'a emmené notamment vers le métier de prothésiste dentaire, je souhaite me reconvertir. Le monde numérique me passionne depuis près de 30 ans et j'ai choisi de travailler pleinement dans ce domaine en tant que développeur web et web mobile.\n\nPour cela, j'ai intégré la formation Bac+2 éponyme de l'ENI à Rennes. Je me trouve une réelle passion pour le développement. Je mets en pratique ma curiosité, rigueur et attention aux détails et j’éprouve beaucoup de satisfaction à voir le résultat de mon code.\n\nPoursuivant mes études  au sein du BAC+4 Concepteur.se et Développeur.se d'Applications, je suis à la recherche d'une alternance d'un an à partir du 03/10/2022. (calendrier flexible)",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ACoAAA9zh1QBXc4W9cB4AUzMGE-xKsHF0QIg8mk",
+        "url": "https://www.linkedin.com/in/ACoAAA9zh1QBXc4W9cB4AUzMGE-xKsHF0QIg8mk/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Funkiwi",
+      "position": "Stagiaire Développeur web full-stack",
+      "startDate": "2022-07-31",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "Réalisation de plugins sur WordPress. \nAnalyse et conception, maquettage (Figma, Figjam, LucidSpark, LucidChart).\nDéveloppement full-stack (PHP, HTML, CSS, JS) avec mesures de sécurité, tests et base de données (MySQL).\nTravail en méthode Agile (Teams, Trello), versionnage du code (Git, GitHub).",
+      "url": "https://www.linkedin.com/company/funkiwi/",
+      "location": "Bruz, Bretagne, France"
+    },
+    {
+      "name": "DENTAL IROISE - MICHEL LE GOFF",
+      "position": "Prothésiste dentaire hautement qualifié",
+      "startDate": "2019-11-30",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "summary": "Prothésiste dentaire polyvalent (adjointe, conjointe, CFAO) avec prépondérance de la conjointe.\n\nTâches effectuées :\n\n- Etapes préparatoires : réalisation des modèles de travail (plâtre et polyuréthane), détourage des dies, mise en articulateur, fausse gencive, base d'occlusion, PEI, mise en moufle (pressée), céramique pressée, coulée du Cobalt-Chrome au chalumeau et par induction (conjointe et adjointe)\n\n- Prothèse adjointe : \n   - réparations, rebasages\n   - PAP résine\n   - PAPCM (dont prothèses mixtes avec attachements)\n   - PAC ostéo-mucoportées (avec maquillage gingival type Nexco), PAC implantoportée sur barre (MCI)\n   - gouttière de désocclusion (type POA)\n   - guide radiologique et chirurgical\n\n- Prothèse conjointe : \n   - IC (Co-Cr et composite) \n   - prothèses provisoires (PMMA usinée, bridge TOBI)\n   - couronne et bridge coulés (Co-Cr)\n   - couronne et bridge céramo-métallique (Co-Cr) et céramo-céramique (stratification sur zircone et disilicate de lithium et monolithique zircone et disilicate de lithium), dont implanto-porté\n   - inlay-onlay-overlay composite et disilicate de lithium\n   - faisage et attachements (locator, vks)\n\n- CFAO : numérisation des modèles, modélisation des prothèses (conjointes et PAPCM), usinage des prothèses (cire, PMMA, zircone), impression 3D. Utilisation des logiciels 3Shape et Zirkonzahn.",
+      "url": "https://www.linkedin.com/company/dental-iroise---michel-le-goff/",
+      "location": "Saint-Renan, Bretagne, France"
+    },
+    {
+      "name": "DENTAL IROISE - MICHEL LE GOFF",
+      "position": "Apprenti prothésiste dentaire",
+      "startDate": "2014-07-31",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "summary": "Apprentissage des techniques de prothèse dentaire :\n\n- Etapes préparatoires : réalisation des modèles de travail (plâtre et polyuréthane), détourage des dies, mise en articulateur, fausse gencive, base d'occlusion, PEI, mise en moufle (pressée), céramique pressée, coulée du Cobalt-Chrome au chalumeau et par induction (conjointe et adjointe)\n\n- Prothèse adjointe : \n   - réparations, rebasages\n   - PAP résine\n   - PAPCM (dont prothèses mixtes avec attachements)\n   - PAC ostéo-mucoportées (avec maquillage gingival type Nexco), PAC implantoportée sur barre (MCI)\n   - gouttière de désocclusion (type POA)\n   - guide radiologique et chirurgical\n\n- Prothèse conjointe : \n   - IC (Co-Cr et composite) \n   - prothèses provisoires (PMMA usinée, bridge TOBI)\n   - couronne et bridge coulés (Co-Cr)\n   - couronne et bridge céramo-métallique (Co-Cr) et céramo-céramique (stratification sur zircone et disilicate de lithium et monolithique zircone et disilicate de lithium), dont implanto-porté\n   - inlay-onlay-overlay composite et disilicate de lithium\n   - faisage et attachements (locator, vks)\n\n- Prothèse d'Orthopédie Dento-Faciale :\n   - Taille américaine des modèles\n   - Plaque de Hawley\n   - Enveloppe Linguale Nocturne\n\n- CFAO : numérisation des modèles, modélisation des prothèses (conjointes et PAPCM), usinage des prothèses (cire, PMMA, zircone), impression 3D. Utilisation des logiciels 3Shape et Zirkonzahn.",
+      "url": "https://www.linkedin.com/company/dental-iroise---michel-le-goff/",
+      "location": "Saint-Renan, Bretagne, France"
+    },
+    {
+      "name": "Zurbrüggen",
+      "position": "Stagiaire Marketing et Logistique",
+      "startDate": "2009-09-30",
+      "endDate": "2010-02-28",
+      "highlights": [],
+      "summary": "Diverses missions aux services marketing (réalisation du catalogue, planification des événements marketing...) et logistique (planification des tournées de livraison, gestion des retours...)",
+      "url": "",
+      "location": "Arrondissement d'Unna, Rhénanie du Nord-Westphalie, Allemagne"
+    },
+    {
+      "name": "Atlantic RF",
+      "position": "Stagiaire en marketing et commerce",
+      "startDate": "2008-05-31",
+      "endDate": "2008-07-31",
+      "highlights": [],
+      "summary": "Diverses missions marketing (réalisation d'une newsletter mensuelle, réalisation d'une animation explicative des produits...) et commerciales (prospection et fidélisation de clients)",
+      "url": "https://www.linkedin.com/company/atlantic-rf/",
+      "location": "Étrelles, Bretagne, France"
+    },
+    {
+      "name": "Peugeot Gemy",
+      "position": "Stagiaire en vente et relations clients",
+      "startDate": "2007-06-30",
+      "endDate": "2007-07-31",
+      "highlights": [],
+      "summary": "Diverses missions autour de la vente (actualisation des prix véhicules, intégration de la gamme de produits, mise en place de la PLV...) et relations clients (accueil des clients sur lieu de vente, relance téléphonique et prise de rendez-vous...)",
+      "url": "",
+      "location": "Fougères, Bretagne, France"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ENI Ecole Informatique",
+      "area": "Programmation informatique, applications spécifiques",
+      "studyType": "Diplôme Développeur.se Web & Web Mobile",
+      "startDate": "2022-01-31",
+      "endDate": "2022-08-31",
+      "score": "En cours de formation",
+      "courses": []
+    },
+    {
+      "institution": "Faculté des Métiers de Rennes",
+      "area": "Prothèse Dentaire",
+      "studyType": "CTM, BTM et BTMS Prothésiste Dentaire",
+      "startDate": "2014-12-31",
+      "endDate": "2019-12-31",
+      "score": "Mention Très Bien",
+      "courses": []
+    },
+    {
+      "institution": "Institut Léonard de Vinci",
+      "area": "Marketing et Développement Durable",
+      "studyType": "Master of Business Administration (MBA)",
+      "startDate": "2011-12-31",
+      "endDate": "2012-12-31",
+      "score": "Mention Bien",
+      "courses": []
+    },
+    {
+      "institution": "ESSEC Business School",
+      "area": "Commerce international",
+      "studyType": "Bachelor of Business Administration (BBA)",
+      "startDate": "2006-12-31",
+      "endDate": "2010-12-31",
+      "score": "Obtention du diplôme",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Chateaubriand",
+      "area": "Baccalauréat en lycée d'enseignement général S franco-allemand",
+      "studyType": "Baccalauréat Abitur",
+      "startDate": "2003-12-31",
+      "endDate": "2006-12-31",
+      "score": "Mention Assez Bien",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trello",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feuilles de style en cascade (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PL/SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jakarta EE",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
