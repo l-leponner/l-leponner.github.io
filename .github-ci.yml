@@ -1,0 +1,15 @@
+image: node:lastest
+
+stages:
+  - build
+
+pages:
+  stage: build
+  script:
+    - npm install
+    - npx resumed render resume.jspon --theme mooser
+    - mkdir public
+    - mv resume.html public/index.html
+  artifacts:
+    paths:
+      - public
